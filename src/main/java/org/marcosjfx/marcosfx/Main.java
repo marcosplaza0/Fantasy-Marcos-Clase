@@ -20,7 +20,7 @@ public class Main extends Application {
      * Método principal que se ejecuta al iniciar la aplicación JavaFX.
      *
      * @param stage El escenario principal proporcionado por JavaFX donde se monta la interfaz gráfica.
-     * @throws RuntimeException Si ocurre algún error durante la carga del archivo FXML.
+     * @throws RuntimeException Sí ocurre algún error durante la carga del archivo FXML.
      */
     @Override
     public void start(Stage stage) {

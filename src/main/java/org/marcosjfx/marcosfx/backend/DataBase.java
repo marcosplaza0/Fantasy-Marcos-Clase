@@ -78,7 +78,7 @@ public class DataBase {
 
             }
         } catch (IOException e) {
-            System.out.printf("Error sacando la informacion %s\n", e.getMessage());
+            System.out.printf("Error sacando la información %s\n", e.getMessage());
         }
 
         return players;
@@ -228,7 +228,7 @@ public class DataBase {
             }
 
         } catch (IOException e) {
-            System.out.printf("Error recogiendo la informacion del team.json: %s\n", e.getMessage());
+            System.out.printf("Error recogiendo la información del team.json: %s\n", e.getMessage());
         }
 
         return team;

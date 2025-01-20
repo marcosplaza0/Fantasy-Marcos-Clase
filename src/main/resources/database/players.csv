@@ -1,0 +1,435 @@
+id,name,overall,market_value,age,team_id,club_name,club_position,goals,assists,saves,player_face_url,club_logo_url
+158023,L. Messi,93,100505000,27,241,FC Barcelona,CF,27,24,0,https://cdn.sofifa.net/players/158/023/15_120.png,https://cdn.sofifa.net/teams/241/60.png
+20801,Cristiano Ronaldo,92,79025000,29,243,Real Madrid CF,LW,30,33,0,https://cdn.sofifa.net/players/020/801/15_120.png,https://cdn.sofifa.net/teams/243/60.png
+41,Iniesta,89,36025000,30,241,FC Barcelona,LCM,35,50,0,https://cdn.sofifa.net/players/000/041/15_120.png,https://cdn.sofifa.net/teams/241/60.png
+176580,L. Suárez,89,49565000,27,241,FC Barcelona,RES,36,36,0,https://cdn.sofifa.net/players/176/580/15_120.png,https://cdn.sofifa.net/teams/241/60.png
+155862,Sergio Ramos,87,31525000,28,243,Real Madrid CF,LCB,30,40,0,https://cdn.sofifa.net/players/155/862/15_120.png,https://cdn.sofifa.net/teams/243/60.png
+173731,G. Bale,87,39055000,24,243,Real Madrid CF,RW,33,28,0,https://cdn.sofifa.net/players/173/731/15_120.png,https://cdn.sofifa.net/teams/243/60.png
+177003,L. Modrić,87,36505000,28,243,Real Madrid CF,RCM,26,34,0,https://cdn.sofifa.net/players/177/003/15_120.png,https://cdn.sofifa.net/teams/243/60.png
+10535,Xavi,86,15515000,34,241,FC Barcelona,SUB,25,22,0,https://cdn.sofifa.net/players/010/535/15_120.png,https://cdn.sofifa.net/teams/241/60.png
+190871,Neymar,86,31065000,22,241,FC Barcelona,LW,37,23,0,https://cdn.sofifa.net/players/190/871/15_120.png,https://cdn.sofifa.net/teams/241/60.png
+198710,J. Rodríguez,86,35065000,22,243,Real Madrid CF,CAM,39,29,0,https://cdn.sofifa.net/players/198/710/15_120.png,https://cdn.sofifa.net/teams/243/60.png
+165153,K. Benzema,85,27035000,26,243,Real Madrid CF,ST,25,40,0,https://cdn.sofifa.net/players/165/153/15_120.png,https://cdn.sofifa.net/teams/243/60.png
+182521,T. Kroos,85,23045000,24,243,Real Madrid CF,LCM,29,24,0,https://cdn.sofifa.net/players/182/521/15_120.png,https://cdn.sofifa.net/teams/243/60.png
+189511,Sergio Busquets,85,20065000,25,241,FC Barcelona,CDM,30,25,0,https://cdn.sofifa.net/players/189/511/15_120.png,https://cdn.sofifa.net/teams/241/60.png
+5479,Casillas,84,16535000,33,243,Real Madrid CF,GK,0,0,60,https://cdn.sofifa.net/players/005/479/15_120.png,https://cdn.sofifa.net/teams/243/60.png
+143745,A. Turan,84,23055000,27,240,Atlético de Madrid,LM,31,44,0,https://cdn.sofifa.net/players/143/745/15_120.png,https://cdn.sofifa.net/teams/240/60.png
+152729,Piqué,84,20525000,27,241,FC Barcelona,RCB,36,25,0,https://cdn.sofifa.net/players/152/729/15_120.png,https://cdn.sofifa.net/teams/241/60.png
+179846,S. Khedira,84,19525000,27,243,Real Madrid CF,SUB,25,37,0,https://cdn.sofifa.net/players/179/846/15_120.png,https://cdn.sofifa.net/teams/243/60.png
+182493,D. Godín,84,19005000,28,240,Atlético de Madrid,LCB,27,22,0,https://cdn.sofifa.net/players/182/493/15_120.png,https://cdn.sofifa.net/teams/240/60.png
+120533,Pepe,83,10045000,31,243,Real Madrid CF,RCB,28,30,0,https://cdn.sofifa.net/players/120/533/15_120.png,https://cdn.sofifa.net/teams/243/60.png
+142754,J. Mascherano,83,11565000,30,241,FC Barcelona,SUB,37,41,0,https://cdn.sofifa.net/players/142/754/15_120.png,https://cdn.sofifa.net/teams/241/60.png
+146439,Negredo,83,16965000,28,461,Valencia CF,SUB,16,5,0,https://cdn.sofifa.net/players/146/439/15_120.png,https://cdn.sofifa.net/teams/461/60.png
+146530,Dani Alves,83,10065000,31,241,FC Barcelona,RB,34,46,0,https://cdn.sofifa.net/players/146/530/15_120.png,https://cdn.sofifa.net/teams/241/60.png
+168609,Miranda,83,12525000,29,240,Atlético de Madrid,RCB,28,30,0,https://cdn.sofifa.net/players/168/609/15_120.png,https://cdn.sofifa.net/teams/240/60.png
+168651,I. Rakitić,83,19555000,26,241,FC Barcelona,RCM,33,34,0,https://cdn.sofifa.net/players/168/651/15_120.png,https://cdn.sofifa.net/teams/241/60.png
+174543,C. Bravo,83,14045000,31,241,FC Barcelona,GK,0,0,66,https://cdn.sofifa.net/players/174/543/15_120.png,https://cdn.sofifa.net/teams/241/60.png
+181783,M. Mandžukić,83,17015000,28,240,Atlético de Madrid,SUB,25,37,0,https://cdn.sofifa.net/players/181/783/15_120.png,https://cdn.sofifa.net/teams/240/60.png
+189505,Pedro,83,18075000,26,241,FC Barcelona,RW,40,37,0,https://cdn.sofifa.net/players/189/505/15_120.png,https://cdn.sofifa.net/teams/241/60.png
+197781,Isco,83,15055000,22,243,Real Madrid CF,SUB,35,29,0,https://cdn.sofifa.net/players/197/781/15_120.png,https://cdn.sofifa.net/teams/243/60.png
+146954,Gabi,82,13535000,30,240,Atlético de Madrid,RCM,26,17,0,https://cdn.sofifa.net/players/146/954/15_120.png,https://cdn.sofifa.net/teams/240/60.png
+169416,C. Vela,82,19015000,25,457,Real Sociedad,LW,29,22,0,https://cdn.sofifa.net/players/169/416/15_120.png,https://cdn.sofifa.net/teams/457/60.png
+176676,Marcelo,82,15975000,26,243,Real Madrid CF,LB,22,38,0,https://cdn.sofifa.net/players/176/676/15_120.png,https://cdn.sofifa.net/teams/243/60.png
+192448,M. ter Stegen,82,11525000,22,241,FC Barcelona,SUB,32,18,0,https://cdn.sofifa.net/players/192/448/15_120.png,https://cdn.sofifa.net/teams/241/60.png
+193747,Koke,82,13505000,22,240,Atlético de Madrid,RM,21,23,0,https://cdn.sofifa.net/players/193/747/15_120.png,https://cdn.sofifa.net/teams/240/60.png
+194765,A. Griezmann,82,14975000,23,240,Atlético de Madrid,LS,22,24,0,https://cdn.sofifa.net/players/194/765/15_120.png,https://cdn.sofifa.net/teams/240/60.png
+165580,Diego Alves,81,11485000,29,461,Valencia CF,GK,0,0,50,https://cdn.sofifa.net/players/165/580/15_120.png,https://cdn.sofifa.net/teams/461/60.png
+170369,G. dos Santos,81,13545000,25,483,Villarreal CF,SUB,29,34,0,https://cdn.sofifa.net/players/170/369/15_120.png,https://cdn.sofifa.net/teams/483/60.png
+178224,J. Hernández,81,14025000,26,243,Real Madrid CF,SUB,29,28,0,https://cdn.sofifa.net/players/178/224/15_120.png,https://cdn.sofifa.net/teams/243/60.png
+182629,Beto,81,9025000,32,481,Sevilla FC,GK,0,0,56,https://cdn.sofifa.net/players/182/629/15_120.png,https://cdn.sofifa.net/teams/481/60.png
+184881,S. Feghouli,81,12015000,24,461,Valencia CF,SUB,26,22,0,https://cdn.sofifa.net/players/184/881/15_120.png,https://cdn.sofifa.net/teams/461/60.png
+189332,Jordi Alba,81,11055000,25,241,FC Barcelona,LB,34,36,0,https://cdn.sofifa.net/players/189/332/15_120.png,https://cdn.sofifa.net/teams/241/60.png
+189574,Iturraspe,81,10565000,25,448,Athletic Club de Bilbao,RCM,40,35,0,https://cdn.sofifa.net/players/189/574/15_120.png,https://cdn.sofifa.net/teams/448/60.png
+201535,R. Varane,81,8045000,21,243,Real Madrid CF,SUB,31,29,0,https://cdn.sofifa.net/players/201/535/15_120.png,https://cdn.sofifa.net/teams/243/60.png
+207664,C. Bacca,81,13065000,27,481,Sevilla FC,ST,30,34,0,https://cdn.sofifa.net/players/207/664/15_120.png,https://cdn.sofifa.net/teams/481/60.png
+212218,A. Laporte,81,8085000,20,448,Athletic Club de Bilbao,LCB,46,46,0,https://cdn.sofifa.net/players/212/218/15_120.png,https://cdn.sofifa.net/teams/448/60.png
+4098,Tiago,80,6545000,33,240,Atlético de Madrid,LCM,28,24,0,https://cdn.sofifa.net/players/004/098/15_120.png,https://cdn.sofifa.net/teams/240/60.png
+106213,Iraola,80,6485000,32,448,Athletic Club de Bilbao,RB,25,29,0,https://cdn.sofifa.net/players/106/213/15_120.png,https://cdn.sofifa.net/teams/448/60.png
+106231,Aduriz,80,7515000,33,448,Athletic Club de Bilbao,ST,28,27,0,https://cdn.sofifa.net/players/106/231/15_120.png,https://cdn.sofifa.net/teams/448/60.png
+112316,J. Mathieu,80,7995000,30,241,FC Barcelona,LCB,21,23,0,https://cdn.sofifa.net/players/112/316/15_120.png,https://cdn.sofifa.net/teams/241/60.png
+140233,G. Ochoa,80,11095000,28,573,Málaga CF,SUB,42,29,0,https://cdn.sofifa.net/players/140/233/15_120.png,https://cdn.sofifa.net/teams/573/60.png
+177600,Beñat,80,12045000,27,448,Athletic Club de Bilbao,CM,27,18,0,https://cdn.sofifa.net/players/177/600/15_120.png,https://cdn.sofifa.net/teams/448/60.png
+177644,Kiko Casilla,80,10565000,27,452,RCD Espanyol de Barcelona,GK,0,0,78,https://cdn.sofifa.net/players/177/644/15_120.png,https://cdn.sofifa.net/teams/452/60.png
+178393,A. Cerci,80,14005000,26,240,Atlético de Madrid,SUB,28,22,0,https://cdn.sofifa.net/players/178/393/15_120.png,https://cdn.sofifa.net/teams/240/60.png
+178562,É. Banega,80,12505000,26,481,Sevilla FC,SUB,26,19,0,https://cdn.sofifa.net/players/178/562/15_120.png,https://cdn.sofifa.net/teams/481/60.png
+189354,Susaeta,80,13995000,26,448,Athletic Club de Bilbao,RW,26,16,0,https://cdn.sofifa.net/players/189/354/15_120.png,https://cdn.sofifa.net/teams/448/60.png
+189513,Parejo,80,12055000,25,461,Valencia CF,RCM,36,47,0,https://cdn.sofifa.net/players/189/513/15_120.png,https://cdn.sofifa.net/teams/461/60.png
+189575,Muniaín,80,9545000,21,448,Athletic Club de Bilbao,LW,29,28,0,https://cdn.sofifa.net/players/189/575/15_120.png,https://cdn.sofifa.net/teams/448/60.png
+192366,N. Otamendi,80,11015000,26,461,Valencia CF,LCB,27,26,0,https://cdn.sofifa.net/players/192/366/15_120.png,https://cdn.sofifa.net/teams/461/60.png
+198329,Rodrigo,80,11995000,23,461,Valencia CF,RW,26,21,0,https://cdn.sofifa.net/players/198/329/15_120.png,https://cdn.sofifa.net/teams/461/60.png
+204525,Iñigo Martínez,80,9035000,23,457,Real Sociedad,LCB,29,26,0,https://cdn.sofifa.net/players/204/525/15_120.png,https://cdn.sofifa.net/teams/457/60.png
+146482,Xabi Prieto,79,7555000,30,457,Real Sociedad,RW,28,33,0,https://cdn.sofifa.net/players/146/482/15_120.png,https://cdn.sofifa.net/teams/457/60.png
+146741,Arbeloa,79,5035000,31,243,Real Madrid CF,SUB,31,34,0,https://cdn.sofifa.net/players/146/741/15_120.png,https://cdn.sofifa.net/teams/243/60.png
+146760,Juanfran,79,6015000,29,240,Atlético de Madrid,RB,26,36,0,https://cdn.sofifa.net/players/146/760/15_120.png,https://cdn.sofifa.net/teams/240/60.png
+157304,T. Vermaelen,79,6545000,28,241,FC Barcelona,SUB,33,33,0,https://cdn.sofifa.net/players/157/304/15_120.png,https://cdn.sofifa.net/teams/241/60.png
+170664,C. Rodríguez,79,7485000,28,240,Atlético de Madrid,SUB,22,24,0,https://cdn.sofifa.net/players/170/664/15_120.png,https://cdn.sofifa.net/teams/240/60.png
+171018,Mario Suárez,79,8045000,27,240,Atlético de Madrid,SUB,35,27,0,https://cdn.sofifa.net/players/171/018/15_120.png,https://cdn.sofifa.net/teams/240/60.png
+171579,Raúl García,79,8085000,27,240,Atlético de Madrid,SUB,35,37,0,https://cdn.sofifa.net/players/171/579/15_120.png,https://cdn.sofifa.net/teams/240/60.png
+171688,Fábio Coentrão,79,8065000,26,243,Real Madrid CF,SUB,31,29,0,https://cdn.sofifa.net/players/171/688/15_120.png,https://cdn.sofifa.net/teams/243/60.png
+172294,Mikel Gonzalez,79,6515000,28,457,Real Sociedad,RCB,26,38,0,https://cdn.sofifa.net/players/172/294/15_120.png,https://cdn.sofifa.net/teams/457/60.png
+176600,K. Gameiro,79,9005000,27,481,Sevilla FC,SUB,24,22,0,https://cdn.sofifa.net/players/176/600/15_120.png,https://cdn.sofifa.net/teams/481/60.png
+178750,Sergio Asenjo,79,7565000,25,483,Villarreal CF,GK,0,0,76,https://cdn.sofifa.net/players/178/750/15_120.png,https://cdn.sofifa.net/teams/483/60.png
+184120,Bruno,79,6465000,30,483,Villarreal CF,LCM,19,16,0,https://cdn.sofifa.net/players/184/120/15_120.png,https://cdn.sofifa.net/teams/483/60.png
+186547,M. Musacchio,79,6545000,23,483,Villarreal CF,RCB,31,26,0,https://cdn.sofifa.net/players/186/547/15_120.png,https://cdn.sofifa.net/teams/483/60.png
+189560,Iborra,79,7535000,26,481,Sevilla FC,RDM,27,29,0,https://cdn.sofifa.net/players/189/560/15_120.png,https://cdn.sofifa.net/teams/481/60.png
+189690,Guaita,79,7585000,27,1860,Getafe CF,GK,0,0,76,https://cdn.sofifa.net/players/189/690/15_120.png,https://cdn.sofifa.net/teams/1860/60.png
+190584,Illarramendi,79,7975000,24,243,Real Madrid CF,SUB,23,23,0,https://cdn.sofifa.net/players/190/584/15_120.png,https://cdn.sofifa.net/teams/243/60.png
+193041,K. Navas,79,7525000,27,243,Real Madrid CF,SUB,27,24,0,https://cdn.sofifa.net/players/193/041/15_120.png,https://cdn.sofifa.net/teams/243/60.png
+193469,Víctor Ruíz,79,7525000,25,483,Villarreal CF,LCB,29,29,0,https://cdn.sofifa.net/players/193/469/15_120.png,https://cdn.sofifa.net/teams/483/60.png
+197242,G. Krychowiak,79,7035000,24,481,Sevilla FC,LDM,29,27,0,https://cdn.sofifa.net/players/197/242/15_120.png,https://cdn.sofifa.net/teams/481/60.png
+199416,Ibai Gómez,79,8035000,24,448,Athletic Club de Bilbao,SUB,33,35,0,https://cdn.sofifa.net/players/199/416/15_120.png,https://cdn.sofifa.net/teams/448/60.png
+200454,Paco Alcácer,79,7545000,20,461,Valencia CF,ST,35,34,0,https://cdn.sofifa.net/players/200/454/15_120.png,https://cdn.sofifa.net/teams/461/60.png
+202477,Deulofeu,79,7505000,20,481,Sevilla FC,SUB,29,32,0,https://cdn.sofifa.net/players/202/477/15_120.png,https://cdn.sofifa.net/teams/481/60.png
+204963,Carvajal,79,5535000,22,243,Real Madrid CF,RB,27,31,0,https://cdn.sofifa.net/players/204/963/15_120.png,https://cdn.sofifa.net/teams/243/60.png
+206407,João Pereira,79,5545000,30,461,Valencia CF,SUB,35,23,0,https://cdn.sofifa.net/players/206/407/15_120.png,https://cdn.sofifa.net/teams/461/60.png
+110677,Moyá,78,7525000,30,240,Atlético de Madrid,GK,0,0,50,https://cdn.sofifa.net/players/110/677/15_120.png,https://cdn.sofifa.net/teams/240/60.png
+114764,Iraizoz,78,6025000,33,448,Athletic Club de Bilbao,GK,0,0,54,https://cdn.sofifa.net/players/114/764/15_120.png,https://cdn.sofifa.net/teams/448/60.png
+146011,I. Uche,78,7565000,30,483,Villarreal CF,RS,32,39,0,https://cdn.sofifa.net/players/146/011/15_120.png,https://cdn.sofifa.net/teams/483/60.png
+146111,Mikel Rico,78,7025000,29,448,Athletic Club de Bilbao,LCM,30,25,0,https://cdn.sofifa.net/players/146/111/15_120.png,https://cdn.sofifa.net/teams/448/60.png
+146460,Javi Fuego,78,5055000,30,461,Valencia CF,LCM,37,38,0,https://cdn.sofifa.net/players/146/460/15_120.png,https://cdn.sofifa.net/teams/461/60.png
+160310,Jesús Gámez,78,5995000,29,240,Atlético de Madrid,SUB,24,34,0,https://cdn.sofifa.net/players/160/310/15_120.png,https://cdn.sofifa.net/teams/240/60.png
+165501,N. Pareja,78,5535000,30,481,Sevilla FC,RCB,34,47,0,https://cdn.sofifa.net/players/165/501/15_120.png,https://cdn.sofifa.net/teams/481/60.png
+172316,Coke,78,7525000,27,481,Sevilla FC,RB,26,23,0,https://cdn.sofifa.net/players/172/316/15_120.png,https://cdn.sofifa.net/teams/481/60.png
+173432,H. Moreno,78,8015000,26,452,RCD Espanyol de Barcelona,SUB,25,21,0,https://cdn.sofifa.net/players/173/432/15_120.png,https://cdn.sofifa.net/teams/452/60.png
+174379,G. Castro,78,6985000,29,457,Real Sociedad,SUB,21,23,0,https://cdn.sofifa.net/players/174/379/15_120.png,https://cdn.sofifa.net/teams/457/60.png
+176903,M. Iturra,78,5025000,30,110832,Granada CF,LDM,26,29,0,https://cdn.sofifa.net/players/176/903/15_120.png,https://cdn.sofifa.net/teams/110832/60.png
+183899,P. Piatti,78,8545000,25,461,Valencia CF,LW,38,40,0,https://cdn.sofifa.net/players/183/899/15_120.png,https://cdn.sofifa.net/teams/461/60.png
+185132,Mikel San José,78,7525000,25,448,Athletic Club de Bilbao,SUB,30,26,0,https://cdn.sofifa.net/players/185/132/15_120.png,https://cdn.sofifa.net/teams/448/60.png
+188005,Camacho,78,6995000,24,573,Málaga CF,RDM,28,32,0,https://cdn.sofifa.net/players/188/005/15_120.png,https://cdn.sofifa.net/teams/573/60.png
+190149,De Marcos,78,7495000,25,448,Athletic Club de Bilbao,SUB,25,31,0,https://cdn.sofifa.net/players/190/149/15_120.png,https://cdn.sofifa.net/teams/448/60.png
+197890,Arribas,78,7525000,25,481,Sevilla FC,SUB,30,52,0,https://cdn.sofifa.net/players/197/890/15_120.png,https://cdn.sofifa.net/teams/481/60.png
+201400,Rafinha,78,7525000,21,241,FC Barcelona,SUB,30,35,0,https://cdn.sofifa.net/players/201/400/15_120.png,https://cdn.sofifa.net/teams/241/60.png
+105803,Gurpegi,77,2365000,33,448,Athletic Club de Bilbao,RCB,34,24,0,https://cdn.sofifa.net/players/105/803/15_120.png,https://cdn.sofifa.net/teams/448/60.png
+111022,David Navarro,77,1615000,34,1853,Levante Unión Deportiva,LCB,24,42,0,https://cdn.sofifa.net/players/111/022/15_120.png,https://cdn.sofifa.net/teams/1853/60.png
+111093,Reyes,77,4565000,30,481,Sevilla FC,SUB,41,38,0,https://cdn.sofifa.net/players/111/093/15_120.png,https://cdn.sofifa.net/teams/481/60.png
+147006,Diego Castro,77,4095000,31,1860,Getafe CF,LM,25,19,0,https://cdn.sofifa.net/players/147/006/15_120.png,https://cdn.sofifa.net/teams/1860/60.png
+153934,Piti,77,3015000,33,110832,Granada CF,RM,31,30,0,https://cdn.sofifa.net/players/153/934/15_120.png,https://cdn.sofifa.net/teams/110832/60.png
+155984,Markel Bergara,77,4325000,28,457,Real Sociedad,LCM,27,29,0,https://cdn.sofifa.net/players/155/984/15_120.png,https://cdn.sofifa.net/teams/457/60.png
+159172,Trashorras,77,3015000,33,480,Rayo Vallecano,LDM,31,44,0,https://cdn.sofifa.net/players/159/172/15_120.png,https://cdn.sofifa.net/teams/480/60.png
+161793,Agirretxe,77,6055000,27,457,Real Sociedad,ST,39,55,0,https://cdn.sofifa.net/players/161/793/15_120.png,https://cdn.sofifa.net/teams/457/60.png
+173228,Siqueira,77,4615000,28,240,Atlético de Madrid,LB,24,22,0,https://cdn.sofifa.net/players/173/228/15_120.png,https://cdn.sofifa.net/teams/240/60.png
+173306,C. Ansaldi,77,4945000,27,240,Atlético de Madrid,SUB,30,37,0,https://cdn.sofifa.net/players/173/306/15_120.png,https://cdn.sofifa.net/teams/240/60.png
+176915,A. Fernández,77,5005000,28,450,RC Celta de Vigo,SUB,23,28,0,https://cdn.sofifa.net/players/176/915/15_120.png,https://cdn.sofifa.net/teams/450/60.png
+177635,B. Trémoulinas,77,4665000,28,481,Sevilla FC,LB,34,43,0,https://cdn.sofifa.net/players/177/635/15_120.png,https://cdn.sofifa.net/teams/481/60.png
+178085,Granero,77,6025000,26,457,Real Sociedad,RCM,32,31,0,https://cdn.sofifa.net/players/178/085/15_120.png,https://cdn.sofifa.net/teams/457/60.png
+179696,E. Insua,77,5035000,25,480,Rayo Vallecano,LB,29,26,0,https://cdn.sofifa.net/players/179/696/15_120.png,https://cdn.sofifa.net/teams/480/60.png
+183108,N. Amrabat,77,5465000,27,573,Málaga CF,SUB,15,20,0,https://cdn.sofifa.net/players/183/108/15_120.png,https://cdn.sofifa.net/teams/573/60.png
+190223,Balenziaga,77,5525000,26,448,Athletic Club de Bilbao,LB,28,17,0,https://cdn.sofifa.net/players/190/223/15_120.png,https://cdn.sofifa.net/teams/448/60.png
+190286,Sergio Canales,77,5565000,23,457,Real Sociedad,CAM,39,31,0,https://cdn.sofifa.net/players/190/286/15_120.png,https://cdn.sofifa.net/teams/457/60.png
+192227,S. Mustafi,77,3825000,22,461,Valencia CF,RCB,28,30,0,https://cdn.sofifa.net/players/192/227/15_120.png,https://cdn.sofifa.net/teams/461/60.png
+192238,José Cañas,77,4715000,27,452,RCD Espanyol de Barcelona,SUB,33,30,0,https://cdn.sofifa.net/players/192/238/15_120.png,https://cdn.sofifa.net/teams/452/60.png
+194644,Montoya,77,4455000,23,241,FC Barcelona,SUB,28,35,0,https://cdn.sofifa.net/players/194/644/15_120.png,https://cdn.sofifa.net/teams/241/60.png
+199561,Nolito,77,5545000,27,450,RC Celta de Vigo,LW,36,38,0,https://cdn.sofifa.net/players/199/561/15_120.png,https://cdn.sofifa.net/teams/450/60.png
+199715,Vitolo,77,5515000,24,481,Sevilla FC,RM,26,24,0,https://cdn.sofifa.net/players/199/715/15_120.png,https://cdn.sofifa.net/teams/481/60.png
+200389,J. Oblak,77,3925000,21,240,Atlético de Madrid,SUB,24,31,0,https://cdn.sofifa.net/players/200/389/15_120.png,https://cdn.sofifa.net/teams/240/60.png
+203528,L. Bangoura,77,4525000,22,480,Rayo Vallecano,RM,25,24,0,https://cdn.sofifa.net/players/203/528/15_120.png,https://cdn.sofifa.net/teams/480/60.png
+28,Manu Herrera,76,4335000,32,468,Elche CF,SUB,33,27,0,https://cdn.sofifa.net/players/000/028/15_120.png,https://cdn.sofifa.net/teams/468/60.png
+25798,R. Santa Cruz,76,4355000,32,573,Málaga CF,ST,42,40,0,https://cdn.sofifa.net/players/025/798/15_120.png,https://cdn.sofifa.net/teams/573/60.png
+42521,A. Ivanschitz,76,4505000,30,1853,Levante Unión Deportiva,SUB,24,35,0,https://cdn.sofifa.net/players/042/521/15_120.png,https://cdn.sofifa.net/teams/1853/60.png
+53014,Fernando Navarro,76,3155000,32,481,Sevilla FC,SUB,34,34,0,https://cdn.sofifa.net/players/053/014/15_120.png,https://cdn.sofifa.net/teams/481/60.png
+135697,Sergio García,76,4715000,31,452,RCD Espanyol de Barcelona,LS,27,21,0,https://cdn.sofifa.net/players/135/697/15_120.png,https://cdn.sofifa.net/teams/452/60.png
+138497,Amaya,76,3455000,31,480,Rayo Vallecano,SUB,35,30,0,https://cdn.sofifa.net/players/138/497/15_120.png,https://cdn.sofifa.net/teams/480/60.png
+145889,Tito,76,4675000,28,480,Rayo Vallecano,RB,36,58,0,https://cdn.sofifa.net/players/145/889/15_120.png,https://cdn.sofifa.net/teams/480/60.png
+146458,Roberto,76,3195000,35,110832,Granada CF,GK,0,0,42,https://cdn.sofifa.net/players/146/458/15_120.png,https://cdn.sofifa.net/teams/110832/60.png
+157393,M. Sissoko,76,3975000,29,1853,Levante Unión Deportiva,SUB,35,19,0,https://cdn.sofifa.net/players/157/393/15_120.png,https://cdn.sofifa.net/teams/1853/60.png
+164029,Charles,76,5065000,30,450,RC Celta de Vigo,SUB,33,41,0,https://cdn.sofifa.net/players/164/029/15_120.png,https://cdn.sofifa.net/teams/450/60.png
+164082,Adriano,76,4245000,29,241,FC Barcelona,SUB,31,25,0,https://cdn.sofifa.net/players/164/082/15_120.png,https://cdn.sofifa.net/teams/241/60.png
+164910,Valera,76,4245000,29,1860,Getafe CF,RB,30,54,0,https://cdn.sofifa.net/players/164/910/15_120.png,https://cdn.sofifa.net/teams/1860/60.png
+170370,J. Dos Santos,76,5565000,24,483,Villarreal CF,SUB,31,34,0,https://cdn.sofifa.net/players/170/370/15_120.png,https://cdn.sofifa.net/teams/483/60.png
+172283,Carlos Martínez,76,4605000,28,457,Real Sociedad,SUB,26,16,0,https://cdn.sofifa.net/players/172/283/15_120.png,https://cdn.sofifa.net/teams/457/60.png
+176094,P. Tytoń,76,5065000,27,468,Elche CF,GK,0,0,70,https://cdn.sofifa.net/players/176/094/15_120.png,https://cdn.sofifa.net/teams/468/60.png
+177573,Weligton,76,1595000,34,573,Málaga CF,LCB,23,20,0,https://cdn.sofifa.net/players/177/573/15_120.png,https://cdn.sofifa.net/teams/573/60.png
+178087,Bueno,76,6515000,26,480,Rayo Vallecano,CAM,30,22,0,https://cdn.sofifa.net/players/178/087/15_120.png,https://cdn.sofifa.net/teams/480/60.png
+178250,P. Diop,76,4335000,28,1853,Levante Unión Deportiva,RDM,26,28,0,https://cdn.sofifa.net/players/178/250/15_120.png,https://cdn.sofifa.net/teams/1853/60.png
+178424,Antunes,76,4925000,27,573,Málaga CF,LB,28,31,0,https://cdn.sofifa.net/players/178/424/15_120.png,https://cdn.sofifa.net/teams/573/60.png
+189156,Daniel Carriço,76,4915000,25,481,Sevilla FC,LCB,28,38,0,https://cdn.sofifa.net/players/189/156/15_120.png,https://cdn.sofifa.net/teams/481/60.png
+192629,Iago Aspas,76,6525000,26,481,Sevilla FC,SUB,26,23,0,https://cdn.sofifa.net/players/192/629/15_120.png,https://cdn.sofifa.net/teams/481/60.png
+192667,A. Nyom,76,5485000,26,110832,Granada CF,RB,22,22,0,https://cdn.sofifa.net/players/192/667/15_120.png,https://cdn.sofifa.net/teams/110832/60.png
+193844,Portillo,76,5565000,24,573,Málaga CF,SUB,35,25,0,https://cdn.sofifa.net/players/193/844/15_120.png,https://cdn.sofifa.net/teams/573/60.png
+198141,Marc Bartra,76,4445000,23,241,FC Barcelona,SUB,28,26,0,https://cdn.sofifa.net/players/198/141/15_120.png,https://cdn.sofifa.net/teams/241/60.png
+202515,Jesé Rodríguez,76,4495000,21,243,Real Madrid CF,SUB,22,12,0,https://cdn.sofifa.net/players/202/515/15_120.png,https://cdn.sofifa.net/teams/243/60.png
+204523,Rubén Pardo,76,4515000,21,457,Real Sociedad,SUB,23,14,0,https://cdn.sofifa.net/players/204/523/15_120.png,https://cdn.sofifa.net/teams/457/60.png
+215079,P. Pérez,76,5035000,28,573,Málaga CF,SUB,32,33,0,https://cdn.sofifa.net/players/215/079/15_120.png,https://cdn.sofifa.net/teams/573/60.png
+215316,G. Rulli,76,3945000,22,457,Real Sociedad,SUB,28,27,0,https://cdn.sofifa.net/players/215/316/15_120.png,https://cdn.sofifa.net/teams/457/60.png
+20176,Hélder Postiga,75,3125000,31,242,Deportivo de La Coruña,ST,26,19,0,https://cdn.sofifa.net/players/020/176/15_120.png,https://cdn.sofifa.net/teams/242/60.png
+110117,Borja Oubiña,75,2435000,32,450,RC Celta de Vigo,SUB,27,30,0,https://cdn.sofifa.net/players/110/117/15_120.png,https://cdn.sofifa.net/teams/450/60.png
+110377,Corominas,75,3105000,31,468,Elche CF,RM,21,21,0,https://cdn.sofifa.net/players/110/377/15_120.png,https://cdn.sofifa.net/teams/468/60.png
+138798,G. Lux,75,2805000,32,242,Deportivo de La Coruña,GK,0,0,52,https://cdn.sofifa.net/players/138/798/15_120.png,https://cdn.sofifa.net/teams/242/60.png
+143102,D. Colotto,75,1505000,33,452,RCD Espanyol de Barcelona,RCB,23,17,0,https://cdn.sofifa.net/players/143/102/15_120.png,https://cdn.sofifa.net/teams/452/60.png
+146513,Lafita,75,3635000,29,1860,Getafe CF,CAM,29,31,0,https://cdn.sofifa.net/players/146/513/15_120.png,https://cdn.sofifa.net/teams/1860/60.png
+146953,Manu Del Moral,75,3305000,30,467,SD Eibar,SUB,22,23,0,https://cdn.sofifa.net/players/146/953/15_120.png,https://cdn.sofifa.net/teams/467/60.png
+159240,M. Krohn-Dehli,75,2745000,31,450,RC Celta de Vigo,RCM,32,46,0,https://cdn.sofifa.net/players/159/240/15_120.png,https://cdn.sofifa.net/teams/450/60.png
+163890,Cobeño,75,2825000,32,480,Rayo Vallecano,SUB,30,26,0,https://cdn.sofifa.net/players/163/890/15_120.png,https://cdn.sofifa.net/teams/480/60.png
+164959,S. M'Bia,75,2805000,28,481,Sevilla FC,SUB,26,28,0,https://cdn.sofifa.net/players/164/959/15_120.png,https://cdn.sofifa.net/teams/481/60.png
+172013,De la Bella,75,3075000,28,457,Real Sociedad,LB,41,32,0,https://cdn.sofifa.net/players/172/013/15_120.png,https://cdn.sofifa.net/teams/457/60.png
+172290,Zurutuza,75,4035000,27,457,Real Sociedad,SUB,33,27,0,https://cdn.sofifa.net/players/172/290/15_120.png,https://cdn.sofifa.net/teams/457/60.png
+172716,Alex López,75,3945000,26,450,RC Celta de Vigo,LCM,31,41,0,https://cdn.sofifa.net/players/172/716/15_120.png,https://cdn.sofifa.net/teams/450/60.png
+175254,F. Caicedo,75,4205000,25,452,RCD Espanyol de Barcelona,RS,24,23,0,https://cdn.sofifa.net/players/175/254/15_120.png,https://cdn.sofifa.net/teams/452/60.png
+177390,H. Medunjanin,75,3205000,29,242,Deportivo de La Coruña,LCM,28,25,0,https://cdn.sofifa.net/players/177/390/15_120.png,https://cdn.sofifa.net/teams/242/60.png
+177643,M. Diakité,75,3185000,27,242,Deportivo de La Coruña,SUB,24,30,0,https://cdn.sofifa.net/players/177/643/15_120.png,https://cdn.sofifa.net/teams/242/60.png
+178171,Sergio Sánchez,75,2995000,28,573,Málaga CF,RCB,21,13,0,https://cdn.sofifa.net/players/178/171/15_120.png,https://cdn.sofifa.net/teams/573/60.png
+181816,A. Rukavina,75,2525000,30,483,Villarreal CF,RB,27,26,0,https://cdn.sofifa.net/players/181/816/15_120.png,https://cdn.sofifa.net/teams/483/60.png
+185181,Yoel,75,3455000,25,461,Valencia CF,SUB,31,39,0,https://cdn.sofifa.net/players/185/181/15_120.png,https://cdn.sofifa.net/teams/461/60.png
+189477,F. Rossi,75,2745000,23,1867,Córdoba CF,RDM,24,30,0,https://cdn.sofifa.net/players/189/477/15_120.png,https://cdn.sofifa.net/teams/1867/60.png
+193176,Víctor Pérez,75,3895000,26,1853,Levante Unión Deportiva,CAM,27,27,0,https://cdn.sofifa.net/players/193/176/15_120.png,https://cdn.sofifa.net/teams/1853/60.png
+193735,Juan Dominguez,75,3765000,24,242,Deportivo de La Coruña,RCM,35,33,0,https://cdn.sofifa.net/players/193/735/15_120.png,https://cdn.sofifa.net/teams/242/60.png
+194209,Y. El Arabi,75,3995000,27,110832,Granada CF,RS,26,28,0,https://cdn.sofifa.net/players/194/209/15_120.png,https://cdn.sofifa.net/teams/110832/60.png
+194229,Hugo Mallo,75,2975000,23,450,RC Celta de Vigo,SUB,33,28,0,https://cdn.sofifa.net/players/194/229/15_120.png,https://cdn.sofifa.net/teams/450/60.png
+195586,A. Finnbogason,75,4235000,25,457,Real Sociedad,SUB,27,36,0,https://cdn.sofifa.net/players/195/586/15_120.png,https://cdn.sofifa.net/teams/457/60.png
+198368,Tomás Pina,75,3885000,26,483,Villarreal CF,SUB,21,10,0,https://cdn.sofifa.net/players/198/368/15_120.png,https://cdn.sofifa.net/teams/483/60.png
+199564,Sergi Roberto,75,2915000,22,241,FC Barcelona,SUB,20,17,0,https://cdn.sofifa.net/players/199/564/15_120.png,https://cdn.sofifa.net/teams/241/60.png
+199594,Montañés,75,3695000,27,452,RCD Espanyol de Barcelona,RM,25,30,0,https://cdn.sofifa.net/players/199/594/15_120.png,https://cdn.sofifa.net/teams/452/60.png
+202493,Aleix,75,3765000,24,481,Sevilla FC,LM,31,32,0,https://cdn.sofifa.net/players/202/493/15_120.png,https://cdn.sofifa.net/teams/481/60.png
+204401,Diogo Figueiras,75,2535000,22,481,Sevilla FC,SUB,20,19,0,https://cdn.sofifa.net/players/204/401/15_120.png,https://cdn.sofifa.net/teams/481/60.png
+209473,N. Ghilas,75,4025000,24,1867,Córdoba CF,SUB,29,22,0,https://cdn.sofifa.net/players/209/473/15_120.png,https://cdn.sofifa.net/teams/1867/60.png
+211017,Víctor Rodríguez,75,4045000,24,468,Elche CF,SUB,34,34,0,https://cdn.sofifa.net/players/211/017/15_120.png,https://cdn.sofifa.net/teams/468/60.png
+211575,André Gomes,75,2955000,20,461,Valencia CF,CM,37,28,0,https://cdn.sofifa.net/players/211/575/15_120.png,https://cdn.sofifa.net/teams/461/60.png
+10764,Juanfran,74,765000,37,1853,Levante Unión Deportiva,SUB,36,43,0,https://cdn.sofifa.net/players/010/764/15_120.png,https://cdn.sofifa.net/teams/1853/60.png
+110026,Cani,74,2425000,32,483,Villarreal CF,RM,28,31,0,https://cdn.sofifa.net/players/110/026/15_120.png,https://cdn.sofifa.net/teams/483/60.png
+135742,Alexis,74,3045000,28,1860,Getafe CF,LCB,28,35,0,https://cdn.sofifa.net/players/135/742/15_120.png,https://cdn.sofifa.net/teams/1860/60.png
+138507,Toño,74,2295000,34,480,Rayo Vallecano,RES,22,22,0,https://cdn.sofifa.net/players/138/507/15_120.png,https://cdn.sofifa.net/teams/480/60.png
+142454,Verza,74,3135000,27,1861,Unión Deportiva Almería,RDM,31,22,0,https://cdn.sofifa.net/players/142/454/15_120.png,https://cdn.sofifa.net/teams/1861/60.png
+142959,M. Barbosa,74,3615000,29,481,Sevilla FC,SUB,24,22,0,https://cdn.sofifa.net/players/142/959/15_120.png,https://cdn.sofifa.net/teams/481/60.png
+145257,Jaime,74,2595000,33,467,SD Eibar,SUB,24,30,0,https://cdn.sofifa.net/players/145/257/15_120.png,https://cdn.sofifa.net/teams/467/60.png
+146759,Riki,74,2345000,33,110832,Granada CF,SUB,32,17,0,https://cdn.sofifa.net/players/146/759/15_120.png,https://cdn.sofifa.net/teams/110832/60.png
+146996,Rubén,74,3335000,30,1861,Unión Deportiva Almería,GK,0,0,56,https://cdn.sofifa.net/players/146/996/15_120.png,https://cdn.sofifa.net/teams/1861/60.png
+155972,Ansotegi,74,2305000,31,457,Real Sociedad,SUB,26,22,0,https://cdn.sofifa.net/players/155/972/15_120.png,https://cdn.sofifa.net/teams/457/60.png
+158144,Salva Sevilla,74,3295000,30,452,RCD Espanyol de Barcelona,LM,22,20,0,https://cdn.sofifa.net/players/158/144/15_120.png,https://cdn.sofifa.net/teams/452/60.png
+159370,L. Vyntra,74,1495000,33,1853,Levante Unión Deportiva,RCB,18,12,0,https://cdn.sofifa.net/players/159/370/15_120.png,https://cdn.sofifa.net/teams/1853/60.png
+161832,Víctor,74,3625000,29,1853,Levante Unión Deportiva,SUB,28,25,0,https://cdn.sofifa.net/players/161/832/15_120.png,https://cdn.sofifa.net/teams/1853/60.png
+162951,M. Angeleri,74,2335000,31,573,Málaga CF,SUB,32,25,0,https://cdn.sofifa.net/players/162/951/15_120.png,https://cdn.sofifa.net/teams/573/60.png
+169432,M. Lacen,74,2935000,30,1860,Getafe CF,LDM,23,20,0,https://cdn.sofifa.net/players/169/432/15_120.png,https://cdn.sofifa.net/teams/1860/60.png
+172285,Elustondo,74,3755000,27,457,Real Sociedad,SUB,28,37,0,https://cdn.sofifa.net/players/172/285/15_120.png,https://cdn.sofifa.net/teams/457/60.png
+177981,F. Tissone,74,3145000,27,573,Málaga CF,RES,34,42,0,https://cdn.sofifa.net/players/177/981/15_120.png,https://cdn.sofifa.net/teams/573/60.png
+179751,J. Larrivey,74,3615000,29,450,RC Celta de Vigo,ST,27,38,0,https://cdn.sofifa.net/players/179/751/15_120.png,https://cdn.sofifa.net/teams/450/60.png
+180359,Luisinho,74,3205000,29,242,Deportivo de La Coruña,SUB,24,8,0,https://cdn.sofifa.net/players/180/359/15_120.png,https://cdn.sofifa.net/teams/242/60.png
+183526,N. El Zhar,74,3745000,27,1853,Levante Unión Deportiva,SUB,35,39,0,https://cdn.sofifa.net/players/183/526/15_120.png,https://cdn.sofifa.net/teams/1853/60.png
+185073,Kike Sola,74,3835000,28,448,Athletic Club de Bilbao,SUB,33,23,0,https://cdn.sofifa.net/players/185/073/15_120.png,https://cdn.sofifa.net/teams/448/60.png
+186430,Manucho,74,3085000,31,480,Rayo Vallecano,SUB,29,34,0,https://cdn.sofifa.net/players/186/430/15_120.png,https://cdn.sofifa.net/teams/480/60.png
+189506,Victor Sánchez,74,3935000,26,452,RCD Espanyol de Barcelona,RDM,32,41,0,https://cdn.sofifa.net/players/189/506/15_120.png,https://cdn.sofifa.net/teams/452/60.png
+192337,P. Diawara,74,4365000,26,1860,Getafe CF,SUB,35,29,0,https://cdn.sofifa.net/players/192/337/15_120.png,https://cdn.sofifa.net/teams/1860/60.png
+192492,F. Orellana,74,3395000,28,450,RC Celta de Vigo,RW,25,29,0,https://cdn.sofifa.net/players/192/492/15_120.png,https://cdn.sofifa.net/teams/450/60.png
+193891,Borja Viguera,74,3985000,27,448,Athletic Club de Bilbao,SUB,25,29,0,https://cdn.sofifa.net/players/193/891/15_120.png,https://cdn.sofifa.net/teams/448/60.png
+195687,Baena,74,3175000,25,480,Rayo Vallecano,RDM,21,33,0,https://cdn.sofifa.net/players/195/687/15_120.png,https://cdn.sofifa.net/teams/480/60.png
+199354,Lucas Pérez,74,3845000,25,242,Deportivo de La Coruña,SUB,33,24,0,https://cdn.sofifa.net/players/199/354/15_120.png,https://cdn.sofifa.net/teams/242/60.png
+199728,Aurtenetxe,74,2425000,22,448,Athletic Club de Bilbao,SUB,11,11,0,https://cdn.sofifa.net/players/199/728/15_120.png,https://cdn.sofifa.net/teams/448/60.png
+199827,P. Hernández,74,4025000,27,450,RC Celta de Vigo,SUB,31,26,0,https://cdn.sofifa.net/players/199/827/15_120.png,https://cdn.sofifa.net/teams/450/60.png
+200984,Rafael Martins,74,3815000,25,1853,Levante Unión Deportiva,SUB,24,14,0,https://cdn.sofifa.net/players/200/984/15_120.png,https://cdn.sofifa.net/teams/1853/60.png
+201377,J. Murillo,74,2505000,22,110832,Granada CF,LCB,31,28,0,https://cdn.sofifa.net/players/201/377/15_120.png,https://cdn.sofifa.net/teams/110832/60.png
+203688,Irureta,74,3415000,28,467,SD Eibar,GK,0,0,52,https://cdn.sofifa.net/players/203/688/15_120.png,https://cdn.sofifa.net/teams/467/60.png
+203863,L. Fariña,74,3735000,23,242,Deportivo de La Coruña,SUB,31,32,0,https://cdn.sofifa.net/players/203/863/15_120.png,https://cdn.sofifa.net/teams/242/60.png
+204838,R. Jiménez,74,3815000,23,240,Atlético de Madrid,RS,49,51,0,https://cdn.sofifa.net/players/204/838/15_120.png,https://cdn.sofifa.net/teams/240/60.png
+205976,Leo Baptistao,74,2955000,21,480,Rayo Vallecano,ST,37,41,0,https://cdn.sofifa.net/players/205/976/15_120.png,https://cdn.sofifa.net/teams/480/60.png
+206545,Manu Trigueros,74,2925000,22,483,Villarreal CF,RCM,33,21,0,https://cdn.sofifa.net/players/206/545/15_120.png,https://cdn.sofifa.net/teams/483/60.png
+206590,Moi Gómez,74,2905000,20,483,Villarreal CF,SUB,24,18,0,https://cdn.sofifa.net/players/206/590/15_120.png,https://cdn.sofifa.net/teams/483/60.png
+207431,Insua,74,2565000,20,242,Deportivo de La Coruña,SUB,38,42,0,https://cdn.sofifa.net/players/207/431/15_120.png,https://cdn.sofifa.net/teams/242/60.png
+208421,Saúl,74,2115000,19,240,Atlético de Madrid,SUB,28,41,0,https://cdn.sofifa.net/players/208/421/15_120.png,https://cdn.sofifa.net/teams/240/60.png
+210930,Carles Gil,74,2925000,21,461,Valencia CF,SUB,29,15,0,https://cdn.sofifa.net/players/210/930/15_120.png,https://cdn.sofifa.net/teams/461/60.png
+211022,Rubén García,74,2935000,20,1853,Levante Unión Deportiva,SUB,33,41,0,https://cdn.sofifa.net/players/211/022/15_120.png,https://cdn.sofifa.net/teams/1853/60.png
+211688,Gayà,74,2335000,19,461,Valencia CF,LB,35,52,0,https://cdn.sofifa.net/players/211/688/15_120.png,https://cdn.sofifa.net/teams/461/60.png
+215399,Rúben Vezo,74,2595000,20,461,Valencia CF,SUB,36,37,0,https://cdn.sofifa.net/players/215/399/15_120.png,https://cdn.sofifa.net/teams/461/60.png
+216796,F. Cartabia,74,2935000,21,1867,Córdoba CF,RM,33,30,0,https://cdn.sofifa.net/players/216/796/15_120.png,https://cdn.sofifa.net/teams/1867/60.png
+49116,A. Boka,73,1605000,31,573,Málaga CF,SUB,22,31,0,https://cdn.sofifa.net/players/049/116/15_120.png,https://cdn.sofifa.net/teams/573/60.png
+110019,Dorado,73,1635000,31,483,Villarreal CF,SUB,28,23,0,https://cdn.sofifa.net/players/110/019/15_120.png,https://cdn.sofifa.net/teams/483/60.png
+110020,Pelegrín,73,395000,35,468,Elche CF,SUB,25,20,0,https://cdn.sofifa.net/players/110/020/15_120.png,https://cdn.sofifa.net/teams/468/60.png
+110283,Duda,73,1335000,34,573,Málaga CF,SUB,31,29,0,https://cdn.sofifa.net/players/110/283/15_120.png,https://cdn.sofifa.net/teams/573/60.png
+111085,Abel Gómez,73,1825000,32,1867,Córdoba CF,SUB,26,24,0,https://cdn.sofifa.net/players/111/085/15_120.png,https://cdn.sofifa.net/teams/1867/60.png
+111661,C. Kameni,73,2405000,30,573,Málaga CF,GK,0,0,50,https://cdn.sofifa.net/players/111/661/15_120.png,https://cdn.sofifa.net/teams/573/60.png
+157479,Pedro López,73,1845000,30,1853,Levante Unión Deportiva,RB,32,31,0,https://cdn.sofifa.net/players/157/479/15_120.png,https://cdn.sofifa.net/teams/1853/60.png
+165536,G. Cabral,73,2295000,28,450,RC Celta de Vigo,RCB,34,32,0,https://cdn.sofifa.net/players/165/536/15_120.png,https://cdn.sofifa.net/teams/450/60.png
+171017,Íñigo López,73,1625000,31,1867,Córdoba CF,RCB,28,30,0,https://cdn.sofifa.net/players/171/017/15_120.png,https://cdn.sofifa.net/teams/1867/60.png
+178746,Miguel Torres,73,2215000,28,573,Málaga CF,SUB,25,39,0,https://cdn.sofifa.net/players/178/746/15_120.png,https://cdn.sofifa.net/teams/573/60.png
+182896,R. Rosales,73,2395000,25,573,Málaga CF,RB,26,22,0,https://cdn.sofifa.net/players/182/896/15_120.png,https://cdn.sofifa.net/teams/573/60.png
+183354,Casado,73,2345000,27,573,Málaga CF,RES,33,40,0,https://cdn.sofifa.net/players/183/354/15_120.png,https://cdn.sofifa.net/teams/573/60.png
+184031,Licá,73,2865000,25,480,Rayo Vallecano,SUB,30,26,0,https://cdn.sofifa.net/players/184/031/15_120.png,https://cdn.sofifa.net/teams/480/60.png
+186197,G. Kakuta,73,2415000,23,480,Rayo Vallecano,LM,27,37,0,https://cdn.sofifa.net/players/186/197/15_120.png,https://cdn.sofifa.net/teams/480/60.png
+188124,Simao Mate,73,2295000,25,1853,Levante Unión Deportiva,LDM,26,29,0,https://cdn.sofifa.net/players/188/124/15_120.png,https://cdn.sofifa.net/teams/1853/60.png
+188669,Xumetra,73,2525000,28,1853,Levante Unión Deportiva,RM,28,22,0,https://cdn.sofifa.net/players/188/669/15_120.png,https://cdn.sofifa.net/teams/1853/60.png
+189018,Michel,73,2315000,24,1861,Unión Deportiva Almería,SUB,30,26,0,https://cdn.sofifa.net/players/189/018/15_120.png,https://cdn.sofifa.net/teams/1861/60.png
+189172,Fidel,73,2745000,24,1867,Córdoba CF,LM,39,22,0,https://cdn.sofifa.net/players/189/172/15_120.png,https://cdn.sofifa.net/teams/1867/60.png
+190507,Etxeita,73,2585000,26,448,Athletic Club de Bilbao,SUB,45,38,0,https://cdn.sofifa.net/players/190/507/15_120.png,https://cdn.sofifa.net/teams/448/60.png
+191059,Javi Márquez,73,2025000,28,110832,Granada CF,SUB,29,32,0,https://cdn.sofifa.net/players/191/059/15_120.png,https://cdn.sofifa.net/teams/110832/60.png
+191488,L. Orbán,73,2465000,25,461,Valencia CF,SUB,30,32,0,https://cdn.sofifa.net/players/191/488/15_120.png,https://cdn.sofifa.net/teams/461/60.png
+192350,J. Aquino,73,2725000,24,480,Rayo Vallecano,SUB,35,40,0,https://cdn.sofifa.net/players/192/350/15_120.png,https://cdn.sofifa.net/teams/480/60.png
+192463,Jose Carlos,73,3135000,26,1867,Córdoba CF,RES,29,28,0,https://cdn.sofifa.net/players/192/463/15_120.png,https://cdn.sofifa.net/teams/1867/60.png
+192476,Fontàs,73,2335000,24,450,RC Celta de Vigo,LCB,29,23,0,https://cdn.sofifa.net/players/192/476/15_120.png,https://cdn.sofifa.net/teams/450/60.png
+198635,Wellington Silva,73,2105000,21,1861,Unión Deportiva Almería,RM,26,22,0,https://cdn.sofifa.net/players/198/635/15_120.png,https://cdn.sofifa.net/teams/1861/60.png
+198840,Abraham,73,2215000,28,467,SD Eibar,LB,25,25,0,https://cdn.sofifa.net/players/198/840/15_120.png,https://cdn.sofifa.net/teams/467/60.png
+200735,Isaac Cuenca,73,2405000,23,242,Deportivo de La Coruña,RM,26,34,0,https://cdn.sofifa.net/players/200/735/15_120.png,https://cdn.sofifa.net/teams/242/60.png
+201363,Matos,73,2435000,21,1867,Córdoba CF,SUB,29,26,0,https://cdn.sofifa.net/players/201/363/15_120.png,https://cdn.sofifa.net/teams/1867/60.png
+201509,Juan Carlos,73,2705000,24,110832,Granada CF,LB,25,34,0,https://cdn.sofifa.net/players/201/509/15_120.png,https://cdn.sofifa.net/teams/110832/60.png
+201537,Raúl Rodríguez,73,2465000,26,452,RCD Espanyol de Barcelona,SUB,19,10,0,https://cdn.sofifa.net/players/201/537/15_120.png,https://cdn.sofifa.net/teams/452/60.png
+202143,Ekiza,73,2555000,26,467,SD Eibar,SUB,31,25,0,https://cdn.sofifa.net/players/202/143/15_120.png,https://cdn.sofifa.net/teams/467/60.png
+202882,T. Bifouma,73,2425000,22,1861,Unión Deportiva Almería,SUB,29,44,0,https://cdn.sofifa.net/players/202/882/15_120.png,https://cdn.sofifa.net/teams/1861/60.png
+203843,D. Suárez,73,2545000,26,468,Elche CF,RB,33,31,0,https://cdn.sofifa.net/players/203/843/15_120.png,https://cdn.sofifa.net/teams/468/60.png
+203864,B. Zuculini,73,2085000,21,461,Valencia CF,SUB,21,22,0,https://cdn.sofifa.net/players/203/864/15_120.png,https://cdn.sofifa.net/teams/461/60.png
+204276,T. Hemed,73,2935000,27,1861,Unión Deportiva Almería,ST,26,30,0,https://cdn.sofifa.net/players/204/276/15_120.png,https://cdn.sofifa.net/teams/1861/60.png
+205083,F. Fajr,73,3015000,25,468,Elche CF,SUB,24,26,0,https://cdn.sofifa.net/players/205/083/15_120.png,https://cdn.sofifa.net/teams/468/60.png
+206225,D. Cheryshev,73,2465000,23,483,Villarreal CF,LM,30,47,0,https://cdn.sofifa.net/players/206/225/15_120.png,https://cdn.sofifa.net/teams/483/60.png
+207441,L. Vietto,73,2465000,20,483,Villarreal CF,LS,39,52,0,https://cdn.sofifa.net/players/207/441/15_120.png,https://cdn.sofifa.net/teams/483/60.png
+208473,Sammir,73,2895000,27,1860,Getafe CF,SUB,27,19,0,https://cdn.sofifa.net/players/208/473/15_120.png,https://cdn.sofifa.net/teams/1860/60.png
+210111,José Rodríguez,73,2245000,19,242,Deportivo de La Coruña,SUB,32,29,0,https://cdn.sofifa.net/players/210/111/15_120.png,https://cdn.sofifa.net/teams/242/60.png
+212183,Nacho,73,2435000,25,480,Rayo Vallecano,SUB,35,54,0,https://cdn.sofifa.net/players/212/183/15_120.png,https://cdn.sofifa.net/teams/480/60.png
+212225,E. Roco,73,1845000,21,468,Elche CF,LCB,29,31,0,https://cdn.sofifa.net/players/212/225/15_120.png,https://cdn.sofifa.net/teams/468/60.png
+51771,Soriano,72,1275000,34,1861,Unión Deportiva Almería,CAM,21,15,0,https://cdn.sofifa.net/players/051/771/15_120.png,https://cdn.sofifa.net/teams/1861/60.png
+110368,Edu Albacar,72,795000,34,468,Elche CF,LB,31,36,0,https://cdn.sofifa.net/players/110/368/15_120.png,https://cdn.sofifa.net/teams/468/60.png
+135819,Mainz,72,1645000,31,110832,Granada CF,SUB,37,35,0,https://cdn.sofifa.net/players/135/819/15_120.png,https://cdn.sofifa.net/teams/110832/60.png
+146121,David Barral,72,2225000,31,1853,Levante Unión Deportiva,ST,25,24,0,https://cdn.sofifa.net/players/146/121/15_120.png,https://cdn.sofifa.net/teams/1853/60.png
+146510,Corona,72,960000,33,1861,Unión Deportiva Almería,SUB,15,22,0,https://cdn.sofifa.net/players/146/510/15_120.png,https://cdn.sofifa.net/teams/1861/60.png
+147007,Gavilán,72,2345000,29,1853,Levante Unión Deportiva,SUB,28,29,0,https://cdn.sofifa.net/players/147/007/15_120.png,https://cdn.sofifa.net/teams/1853/60.png
+157270,Toché,72,2265000,31,242,Deportivo de La Coruña,SUB,31,32,0,https://cdn.sofifa.net/players/157/270/15_120.png,https://cdn.sofifa.net/teams/242/60.png
+157947,Zé Castro,72,1635000,31,480,Rayo Vallecano,RCB,32,41,0,https://cdn.sofifa.net/players/157/947/15_120.png,https://cdn.sofifa.net/teams/480/60.png
+159583,Lanzarote,72,2135000,30,452,RCD Espanyol de Barcelona,SUB,26,19,0,https://cdn.sofifa.net/players/159/583/15_120.png,https://cdn.sofifa.net/teams/452/60.png
+163806,Sergio,72,2425000,27,450,RC Celta de Vigo,GK,0,0,56,https://cdn.sofifa.net/players/163/806/15_120.png,https://cdn.sofifa.net/teams/450/60.png
+169426,Barragán,72,2315000,27,461,Valencia CF,RB,28,29,0,https://cdn.sofifa.net/players/169/426/15_120.png,https://cdn.sofifa.net/teams/461/60.png
+170988,Toquero,72,2635000,29,448,Athletic Club de Bilbao,SUB,26,29,0,https://cdn.sofifa.net/players/170/988/15_120.png,https://cdn.sofifa.net/teams/448/60.png
+174859,Fran Rico,72,2865000,26,110832,Granada CF,RDM,38,41,0,https://cdn.sofifa.net/players/174/859/15_120.png,https://cdn.sofifa.net/teams/110832/60.png
+177149,B. Jokič,72,2205000,28,483,Villarreal CF,SUB,24,17,0,https://cdn.sofifa.net/players/177/149/15_120.png,https://cdn.sofifa.net/teams/483/60.png
+178616,Adrián González,72,2415000,26,468,Elche CF,LDM,27,19,0,https://cdn.sofifa.net/players/178/616/15_120.png,https://cdn.sofifa.net/teams/468/60.png
+182002,Sidnei,72,2375000,25,242,Deportivo de La Coruña,LCB,22,27,0,https://cdn.sofifa.net/players/182/002/15_120.png,https://cdn.sofifa.net/teams/242/60.png
+189169,Jonathas,72,3005000,25,468,Elche CF,ST,26,29,0,https://cdn.sofifa.net/players/189/169/15_120.png,https://cdn.sofifa.net/teams/468/60.png
+191055,Dídac,72,2455000,25,467,SD Eibar,SUB,35,33,0,https://cdn.sofifa.net/players/191/055/15_120.png,https://cdn.sofifa.net/teams/467/60.png
+192457,Jesús,72,2635000,26,1853,Levante Unión Deportiva,GK,0,0,66,https://cdn.sofifa.net/players/192/457/15_120.png,https://cdn.sofifa.net/teams/1853/60.png
+192789,Mario Gaspar,72,2135000,23,483,Villarreal CF,SUB,34,28,0,https://cdn.sofifa.net/players/192/789/15_120.png,https://cdn.sofifa.net/teams/483/60.png
+193171,Jaume Costa,72,2525000,26,483,Villarreal CF,LB,26,42,0,https://cdn.sofifa.net/players/193/171/15_120.png,https://cdn.sofifa.net/teams/483/60.png
+198023,Ximo Navarro,72,2345000,24,1861,Unión Deportiva Almería,RB,27,37,0,https://cdn.sofifa.net/players/198/023/15_120.png,https://cdn.sofifa.net/teams/1861/60.png
+198386,S. Dubarbier,72,2215000,28,1861,Unión Deportiva Almería,LB,26,37,0,https://cdn.sofifa.net/players/198/386/15_120.png,https://cdn.sofifa.net/teams/1861/60.png
+198706,Luis Alberto,72,2445000,21,573,Málaga CF,CAM,34,34,0,https://cdn.sofifa.net/players/198/706/15_120.png,https://cdn.sofifa.net/teams/573/60.png
+200271,Salomão,72,2815000,25,242,Deportivo de La Coruña,SUB,27,17,0,https://cdn.sofifa.net/players/200/271/15_120.png,https://cdn.sofifa.net/teams/242/60.png
+200724,Nacho Fernández,72,2335000,24,243,Real Madrid CF,SUB,30,21,0,https://cdn.sofifa.net/players/200/724/15_120.png,https://cdn.sofifa.net/teams/243/60.png
+201305,Gabriel,72,2105000,23,483,Villarreal CF,SUB,27,24,0,https://cdn.sofifa.net/players/201/305/15_120.png,https://cdn.sofifa.net/teams/483/60.png
+205192,Denis Suarez,72,2435000,20,481,Sevilla FC,CAM,28,24,0,https://cdn.sofifa.net/players/205/192/15_120.png,https://cdn.sofifa.net/teams/481/60.png
+205545,Flávio Ferreira,72,1825000,22,573,Málaga CF,RES,31,25,0,https://cdn.sofifa.net/players/205/545/15_120.png,https://cdn.sofifa.net/teams/573/60.png
+210455,Jonny,72,1865000,20,450,RC Celta de Vigo,RB,36,21,0,https://cdn.sofifa.net/players/210/455/15_120.png,https://cdn.sofifa.net/teams/450/60.png
+213516,Ricardo Horta,72,2015000,19,573,Málaga CF,LM,32,19,0,https://cdn.sofifa.net/players/213/516/15_120.png,https://cdn.sofifa.net/teams/573/60.png
+100978,D. Boateng,71,1015000,31,467,SD Eibar,SUB,34,43,0,https://cdn.sofifa.net/players/100/978/15_120.png,https://cdn.sofifa.net/teams/467/60.png
+110341,Lopo,71,460000,34,242,Deportivo de La Coruña,RCB,23,34,0,https://cdn.sofifa.net/players/110/341/15_120.png,https://cdn.sofifa.net/teams/242/60.png
+146104,Lopez Garai,71,650000,33,1867,Córdoba CF,LDM,29,29,0,https://cdn.sofifa.net/players/146/104/15_120.png,https://cdn.sofifa.net/teams/1867/60.png
+146937,Arruabarrena,71,1435000,31,467,SD Eibar,CAM,24,32,0,https://cdn.sofifa.net/players/146/937/15_120.png,https://cdn.sofifa.net/teams/467/60.png
+147305,Juan Rodriguez,71,1175000,32,1860,Getafe CF,RDM,38,30,0,https://cdn.sofifa.net/players/147/305/15_120.png,https://cdn.sofifa.net/teams/1860/60.png
+159566,Abraham,71,1635000,28,452,RCD Espanyol de Barcelona,LDM,30,41,0,https://cdn.sofifa.net/players/159/566/15_120.png,https://cdn.sofifa.net/teams/452/60.png
+170456,Mané,71,940000,32,1861,Unión Deportiva Almería,SUB,26,29,0,https://cdn.sofifa.net/players/170/456/15_120.png,https://cdn.sofifa.net/teams/1861/60.png
+171016,Cisma,71,950000,32,468,Elche CF,SUB,28,30,0,https://cdn.sofifa.net/players/171/016/15_120.png,https://cdn.sofifa.net/teams/468/60.png
+171992,Juan Carlos,71,1615000,26,483,Villarreal CF,SUB,22,31,0,https://cdn.sofifa.net/players/171/992/15_120.png,https://cdn.sofifa.net/teams/483/60.png
+173600,Roberto Lago,71,1375000,28,1860,Getafe CF,LB,20,24,0,https://cdn.sofifa.net/players/173/600/15_120.png,https://cdn.sofifa.net/teams/1860/60.png
+176693,J. Babin,71,1515000,27,110832,Granada CF,RCB,26,18,0,https://cdn.sofifa.net/players/176/693/15_120.png,https://cdn.sofifa.net/teams/110832/60.png
+177633,Ángel,71,1885000,27,467,SD Eibar,ST,20,23,0,https://cdn.sofifa.net/players/177/633/15_120.png,https://cdn.sofifa.net/teams/467/60.png
+178297,Canella,71,1635000,26,242,Deportivo de La Coruña,LB,31,27,0,https://cdn.sofifa.net/players/178/297/15_120.png,https://cdn.sofifa.net/teams/242/60.png
+178625,Mosquera,71,1835000,26,468,Elche CF,RDM,33,35,0,https://cdn.sofifa.net/players/178/625/15_120.png,https://cdn.sofifa.net/teams/468/60.png
+185137,Aquino,71,1535000,23,240,Atlético de Madrid,SUB,33,33,0,https://cdn.sofifa.net/players/185/137/15_120.png,https://cdn.sofifa.net/teams/240/60.png
+186537,C. Stuani,71,1695000,27,452,RCD Espanyol de Barcelona,SUB,24,30,0,https://cdn.sofifa.net/players/186/537/15_120.png,https://cdn.sofifa.net/teams/452/60.png
+188135,Juanfran,71,1515000,25,242,Deportivo de La Coruña,SUB,25,28,0,https://cdn.sofifa.net/players/188/135/15_120.png,https://cdn.sofifa.net/teams/242/60.png
+188930,Laure,71,1325000,29,242,Deportivo de La Coruña,RB,30,44,0,https://cdn.sofifa.net/players/188/930/15_120.png,https://cdn.sofifa.net/teams/242/60.png
+188938,C. Álvarez,71,1635000,28,480,Rayo Vallecano,GK,0,0,68,https://cdn.sofifa.net/players/188/938/15_120.png,https://cdn.sofifa.net/teams/480/60.png
+189121,López Silva,71,1275000,31,1867,Córdoba CF,CAM,37,29,0,https://cdn.sofifa.net/players/189/121/15_120.png,https://cdn.sofifa.net/teams/1867/60.png
+189211,Saúl Berjón,71,1635000,28,467,SD Eibar,SUB,30,14,0,https://cdn.sofifa.net/players/189/211/15_120.png,https://cdn.sofifa.net/teams/467/60.png
+189701,Lombán,71,1445000,27,468,Elche CF,RCB,15,22,0,https://cdn.sofifa.net/players/189/701/15_120.png,https://cdn.sofifa.net/teams/468/60.png
+190034,T. Kolodziejczak,71,1135000,22,481,Sevilla FC,SUB,27,26,0,https://cdn.sofifa.net/players/190/034/15_120.png,https://cdn.sofifa.net/teams/481/60.png
+192033,Cicinho,71,1535000,27,481,Sevilla FC,RES,31,31,0,https://cdn.sofifa.net/players/192/033/15_120.png,https://cdn.sofifa.net/teams/481/60.png
+192775,N. Karampelas,71,1305000,29,1853,Levante Unión Deportiva,SUB,26,24,0,https://cdn.sofifa.net/players/192/775/15_120.png,https://cdn.sofifa.net/teams/1853/60.png
+193887,H. Pérez,71,1715000,25,483,Villarreal CF,RES,23,27,0,https://cdn.sofifa.net/players/193/887/15_120.png,https://cdn.sofifa.net/teams/483/60.png
+195361,Javi López,71,1435000,28,452,RCD Espanyol de Barcelona,RB,29,23,0,https://cdn.sofifa.net/players/195/361/15_120.png,https://cdn.sofifa.net/teams/452/60.png
+198614,Raúl Navas,71,1625000,26,467,SD Eibar,LCB,26,19,0,https://cdn.sofifa.net/players/198/614/15_120.png,https://cdn.sofifa.net/teams/467/60.png
+199247,Álex Fernández,71,1335000,21,452,RCD Espanyol de Barcelona,SUB,34,30,0,https://cdn.sofifa.net/players/199/247/15_120.png,https://cdn.sofifa.net/teams/452/60.png
+199493,Diego Mariño,71,1545000,24,1853,Levante Unión Deportiva,SUB,38,49,0,https://cdn.sofifa.net/players/199/493/15_120.png,https://cdn.sofifa.net/teams/1853/60.png
+201403,Álvaro,71,1705000,23,1860,Getafe CF,ST,23,27,0,https://cdn.sofifa.net/players/201/403/15_120.png,https://cdn.sofifa.net/teams/1860/60.png
+201893,Recio,71,1565000,23,573,Málaga CF,SUB,36,47,0,https://cdn.sofifa.net/players/201/893/15_120.png,https://cdn.sofifa.net/teams/573/60.png
+202648,Sergi Darder,71,1115000,20,573,Málaga CF,LDM,28,41,0,https://cdn.sofifa.net/players/202/648/15_120.png,https://cdn.sofifa.net/teams/573/60.png
+203895,Pozuelo,71,1555000,22,480,Rayo Vallecano,SUB,31,31,0,https://cdn.sofifa.net/players/203/895/15_120.png,https://cdn.sofifa.net/teams/480/60.png
+204826,A. Ba,71,1335000,23,480,Rayo Vallecano,LCB,33,32,0,https://cdn.sofifa.net/players/204/826/15_120.png,https://cdn.sofifa.net/teams/480/60.png
+207733,Filipe Augusto,71,1355000,20,461,Valencia CF,SUB,39,46,0,https://cdn.sofifa.net/players/207/733/15_120.png,https://cdn.sofifa.net/teams/461/60.png
+212267,Ivan Cavaleiro,71,1345000,20,242,Deportivo de La Coruña,LM,32,27,0,https://cdn.sofifa.net/players/212/267/15_120.png,https://cdn.sofifa.net/teams/242/60.png
+212616,R. De Paul,71,1325000,20,461,Valencia CF,SUB,22,26,0,https://cdn.sofifa.net/players/212/616/15_120.png,https://cdn.sofifa.net/teams/461/60.png
+216460,J. Giménez,71,1015000,19,240,Atlético de Madrid,SUB,33,35,0,https://cdn.sofifa.net/players/216/460/15_120.png,https://cdn.sofifa.net/teams/240/60.png
+216472,A. Pantic,71,1145000,22,1867,Córdoba CF,LCB,30,35,0,https://cdn.sofifa.net/players/216/472/15_120.png,https://cdn.sofifa.net/teams/1867/60.png
+138080,P. Diakhaté,70,1145000,30,110832,Granada CF,RES,37,33,0,https://cdn.sofifa.net/players/138/080/15_120.png,https://cdn.sofifa.net/teams/110832/60.png
+146744,Codina,70,1295000,32,1860,Getafe CF,SUB,24,37,0,https://cdn.sofifa.net/players/146/744/15_120.png,https://cdn.sofifa.net/teams/1860/60.png
+155961,Zubikarai,70,1505000,30,457,Real Sociedad,GK,0,0,44,https://cdn.sofifa.net/players/155/961/15_120.png,https://cdn.sofifa.net/teams/457/60.png
+172295,Dani Estrada,70,1515000,27,457,Real Sociedad,SUB,27,12,0,https://cdn.sofifa.net/players/172/295/15_120.png,https://cdn.sofifa.net/teams/457/60.png
+177723,Fabricio,70,1595000,26,242,Deportivo de La Coruña,SUB,22,11,0,https://cdn.sofifa.net/players/177/723/15_120.png,https://cdn.sofifa.net/teams/242/60.png
+183853,Aarón,70,1725000,25,468,Elche CF,SUB,30,15,0,https://cdn.sofifa.net/players/183/853/15_120.png,https://cdn.sofifa.net/teams/468/60.png
+188103,Rochina,70,1555000,23,110832,Granada CF,LM,29,35,0,https://cdn.sofifa.net/players/188/103/15_120.png,https://cdn.sofifa.net/teams/110832/60.png
+190535,Míchel,70,1755000,25,1860,Getafe CF,SUB,34,34,0,https://cdn.sofifa.net/players/190/535/15_120.png,https://cdn.sofifa.net/teams/1860/60.png
+192679,Escudero,70,1565000,24,1860,Getafe CF,SUB,34,21,0,https://cdn.sofifa.net/players/192/679/15_120.png,https://cdn.sofifa.net/teams/1860/60.png
+193152,Herrerín,70,1585000,26,448,Athletic Club de Bilbao,SUB,19,11,0,https://cdn.sofifa.net/players/193/152/15_120.png,https://cdn.sofifa.net/teams/448/60.png
+193421,Javi Lara,70,1645000,28,467,SD Eibar,LM,33,23,0,https://cdn.sofifa.net/players/193/421/15_120.png,https://cdn.sofifa.net/teams/467/60.png
+194200,Trujillo,70,1645000,26,1861,Unión Deportiva Almería,LCB,31,33,0,https://cdn.sofifa.net/players/194/200/15_120.png,https://cdn.sofifa.net/teams/1861/60.png
+198950,Pablo Sarabia,70,1565000,22,1860,Getafe CF,RM,34,35,0,https://cdn.sofifa.net/players/198/950/15_120.png,https://cdn.sofifa.net/teams/1860/60.png
+199409,Deivid,70,1525000,25,1867,Córdoba CF,SUB,25,29,0,https://cdn.sofifa.net/players/199/409/15_120.png,https://cdn.sofifa.net/teams/1867/60.png
+199575,Jordi Masip,70,1605000,25,241,FC Barcelona,RES,26,27,0,https://cdn.sofifa.net/players/199/575/15_120.png,https://cdn.sofifa.net/teams/241/60.png
+199986,Arbilla,70,1525000,27,452,RCD Espanyol de Barcelona,SUB,30,32,0,https://cdn.sofifa.net/players/199/986/15_120.png,https://cdn.sofifa.net/teams/452/60.png
+201146,Errasti,70,1515000,26,467,SD Eibar,RDM,28,41,0,https://cdn.sofifa.net/players/201/146/15_120.png,https://cdn.sofifa.net/teams/467/60.png
+202054,Naldo,70,1485000,25,1860,Getafe CF,RCB,19,19,0,https://cdn.sofifa.net/players/202/054/15_120.png,https://cdn.sofifa.net/teams/1860/60.png
+202379,J. Zongo,70,1485000,21,1861,Unión Deportiva Almería,LM,21,30,0,https://cdn.sofifa.net/players/202/379/15_120.png,https://cdn.sofifa.net/teams/1861/60.png
+202935,Álvaro,70,1485000,24,452,RCD Espanyol de Barcelona,LCB,25,22,0,https://cdn.sofifa.net/players/202/935/15_120.png,https://cdn.sofifa.net/teams/452/60.png
+204280,Cristian Herrera,70,1725000,23,468,Elche CF,SUB,26,25,0,https://cdn.sofifa.net/players/204/280/15_120.png,https://cdn.sofifa.net/teams/468/60.png
+207739,M. Havenaar,70,1915000,27,1867,Córdoba CF,ST,30,38,0,https://cdn.sofifa.net/players/207/739/15_120.png,https://cdn.sofifa.net/teams/1867/60.png
+207997,Albentosa,70,1555000,25,467,SD Eibar,RCB,36,38,0,https://cdn.sofifa.net/players/207/997/15_120.png,https://cdn.sofifa.net/teams/467/60.png
+210514,João Cancelo,70,1135000,20,461,Valencia CF,SUB,35,42,0,https://cdn.sofifa.net/players/210/514/15_120.png,https://cdn.sofifa.net/teams/461/60.png
+210787,M. Dos Santos,70,1595000,24,1861,Unión Deportiva Almería,RCB,40,35,0,https://cdn.sofifa.net/players/210/787/15_120.png,https://cdn.sofifa.net/teams/1861/60.png
+211231,R. Azeez,70,1145000,21,1861,Unión Deportiva Almería,SUB,37,44,0,https://cdn.sofifa.net/players/211/231/15_120.png,https://cdn.sofifa.net/teams/1861/60.png
+219848,David Costas,70,1045000,19,450,RC Celta de Vigo,SUB,29,28,0,https://cdn.sofifa.net/players/219/848/15_120.png,https://cdn.sofifa.net/teams/450/60.png
+223273,M. Pašalić,70,1225000,19,468,Elche CF,CAM,35,31,0,https://cdn.sofifa.net/players/223/273/15_120.png,https://cdn.sofifa.net/teams/468/60.png
+146634,Iago Bouzón,69,640000,31,1867,Córdoba CF,SUB,24,31,0,https://cdn.sofifa.net/players/146/634/15_120.png,https://cdn.sofifa.net/teams/1867/60.png
+171995,Jonathan Pereira,69,1105000,27,480,Rayo Vallecano,SUB,31,11,0,https://cdn.sofifa.net/players/171/995/15_120.png,https://cdn.sofifa.net/teams/480/60.png
+176209,C. Wilk,69,855000,28,242,Deportivo de La Coruña,SUB,37,34,0,https://cdn.sofifa.net/players/176/209/15_120.png,https://cdn.sofifa.net/teams/242/60.png
+176773,D. Larsson,69,1045000,27,110832,Granada CF,SUB,31,40,0,https://cdn.sofifa.net/players/176/773/15_120.png,https://cdn.sofifa.net/teams/110832/60.png
+188931,Alex Bergantiños,69,700000,29,242,Deportivo de La Coruña,CDM,23,24,0,https://cdn.sofifa.net/players/188/931/15_120.png,https://cdn.sofifa.net/teams/242/60.png
+192555,I. El Adoua,69,915000,27,1853,Levante Unión Deportiva,SUB,24,33,0,https://cdn.sofifa.net/players/192/555/15_120.png,https://cdn.sofifa.net/teams/1853/60.png
+192621,D. Nounkeu,69,870000,28,110832,Granada CF,RES,27,33,0,https://cdn.sofifa.net/players/192/621/15_120.png,https://cdn.sofifa.net/teams/110832/60.png
+193429,Douglas,69,865000,23,241,FC Barcelona,SUB,40,37,0,https://cdn.sofifa.net/players/193/429/15_120.png,https://cdn.sofifa.net/teams/241/60.png
+194761,Borja García,69,1045000,23,1867,Córdoba CF,SUB,28,24,0,https://cdn.sofifa.net/players/194/761/15_120.png,https://cdn.sofifa.net/teams/1867/60.png
+199577,Sergi Gómez,69,695000,22,450,RC Celta de Vigo,SUB,23,12,0,https://cdn.sofifa.net/players/199/577/15_120.png,https://cdn.sofifa.net/teams/450/60.png
+201991,Erik Morán,69,765000,23,448,Athletic Club de Bilbao,SUB,25,26,0,https://cdn.sofifa.net/players/201/991/15_120.png,https://cdn.sofifa.net/teams/448/60.png
+202476,Javi Espinosa,69,840000,21,483,Villarreal CF,SUB,30,27,0,https://cdn.sofifa.net/players/202/476/15_120.png,https://cdn.sofifa.net/teams/483/60.png
+202529,Víctor Álvarez,69,735000,21,452,RCD Espanyol de Barcelona,SUB,32,36,0,https://cdn.sofifa.net/players/202/529/15_120.png,https://cdn.sofifa.net/teams/452/60.png
+204474,Dani Nieto,69,1025000,23,467,SD Eibar,SUB,25,28,0,https://cdn.sofifa.net/players/204/474/15_120.png,https://cdn.sofifa.net/teams/467/60.png
+205669,Luís Martins,69,705000,22,110832,Granada CF,SUB,26,20,0,https://cdn.sofifa.net/players/205/669/15_120.png,https://cdn.sofifa.net/teams/110832/60.png
+210287,J. Córdoba,69,960000,21,110832,Granada CF,SUB,31,36,0,https://cdn.sofifa.net/players/210/287/15_120.png,https://cdn.sofifa.net/teams/110832/60.png
+215183,E. Rescaldani,69,970000,22,573,Málaga CF,SUB,30,17,0,https://cdn.sofifa.net/players/215/183/15_120.png,https://cdn.sofifa.net/teams/573/60.png
+216475,Morales,69,1145000,26,1853,Levante Unión Deportiva,LM,37,33,0,https://cdn.sofifa.net/players/216/475/15_120.png,https://cdn.sofifa.net/teams/1853/60.png
+219652,Robert,69,880000,21,461,Valencia CF,SUB,30,23,0,https://cdn.sofifa.net/players/219/652/15_120.png,https://cdn.sofifa.net/teams/461/60.png
+219712,S. Cristóforo,69,645000,20,481,Sevilla FC,RES,27,36,0,https://cdn.sofifa.net/players/219/712/15_120.png,https://cdn.sofifa.net/teams/481/60.png
+8963,Manuel Pablo,68,725000,38,242,Deportivo de La Coruña,SUB,37,44,0,https://cdn.sofifa.net/players/008/963/15_120.png,https://cdn.sofifa.net/teams/242/60.png
+164471,Xisco,68,1155000,28,1867,Córdoba CF,SUB,28,25,0,https://cdn.sofifa.net/players/164/471/15_120.png,https://cdn.sofifa.net/teams/1867/60.png
+184965,Felipe Mattioni,68,955000,25,452,RCD Espanyol de Barcelona,SUB,25,26,0,https://cdn.sofifa.net/players/184/965/15_120.png,https://cdn.sofifa.net/teams/452/60.png
+188410,Añibarro,68,315000,34,467,SD Eibar,SUB,26,33,0,https://cdn.sofifa.net/players/188/410/15_120.png,https://cdn.sofifa.net/teams/467/60.png
+192596,Héctor Rodas,68,1010000,26,1853,Levante Unión Deportiva,SUB,27,35,0,https://cdn.sofifa.net/players/192/596/15_120.png,https://cdn.sofifa.net/teams/1853/60.png
+193600,A. Gunino,68,955000,25,1867,Córdoba CF,RB,27,17,0,https://cdn.sofifa.net/players/193/600/15_120.png,https://cdn.sofifa.net/teams/1867/60.png
+194519,Fuentes,68,975000,24,452,RCD Espanyol de Barcelona,LB,37,39,0,https://cdn.sofifa.net/players/194/519/15_120.png,https://cdn.sofifa.net/teams/452/60.png
+197891,Juanmi,68,970000,21,573,Málaga CF,RM,28,24,0,https://cdn.sofifa.net/players/197/891/15_120.png,https://cdn.sofifa.net/teams/573/60.png
+198630,Arroyo,68,995000,25,1860,Getafe CF,SUB,36,41,0,https://cdn.sofifa.net/players/198/630/15_120.png,https://cdn.sofifa.net/teams/1860/60.png
+199152,D. Lekić,68,1075000,29,467,SD Eibar,SUB,38,37,0,https://cdn.sofifa.net/players/199/152/15_120.png,https://cdn.sofifa.net/teams/467/60.png
+200517,Carles Planas,68,805000,23,450,RC Celta de Vigo,LB,30,44,0,https://cdn.sofifa.net/players/200/517/15_120.png,https://cdn.sofifa.net/teams/450/60.png
+203177,D. Foulquier,68,755000,21,110832,Granada CF,SUB,32,35,0,https://cdn.sofifa.net/players/203/177/15_120.png,https://cdn.sofifa.net/teams/110832/60.png
+204757,Toño,68,935000,24,1853,Levante Unión Deportiva,LB,32,33,0,https://cdn.sofifa.net/players/204/757/15_120.png,https://cdn.sofifa.net/teams/1853/60.png
+206585,Kepa Arrizabalaga,68,665000,19,448,Athletic Club de Bilbao,RES,33,39,0,https://cdn.sofifa.net/players/206/585/15_120.png,https://cdn.sofifa.net/teams/448/60.png
+211101,Rubén Blanco,68,680000,18,450,RC Celta de Vigo,SUB,37,33,0,https://cdn.sofifa.net/players/211/101/15_120.png,https://cdn.sofifa.net/teams/450/60.png
+211103,L. Madinda,68,695000,22,450,RC Celta de Vigo,SUB,26,20,0,https://cdn.sofifa.net/players/211/103/15_120.png,https://cdn.sofifa.net/teams/450/60.png
+211315,Israel,68,725000,21,483,Villarreal CF,RES,30,33,0,https://cdn.sofifa.net/players/211/315/15_120.png,https://cdn.sofifa.net/teams/483/60.png
+212623,Santi Mina,68,890000,18,450,RC Celta de Vigo,SUB,34,41,0,https://cdn.sofifa.net/players/212/623/15_120.png,https://cdn.sofifa.net/teams/450/60.png
+225028,N. Radoja,68,705000,21,450,RC Celta de Vigo,CDM,34,24,0,https://cdn.sofifa.net/players/225/028/15_120.png,https://cdn.sofifa.net/teams/450/60.png
+172685,Crespo,67,760000,27,1867,Córdoba CF,SUB,29,39,0,https://cdn.sofifa.net/players/172/685/15_120.png,https://cdn.sofifa.net/teams/1867/60.png
+183141,Oier,67,740000,24,110832,Granada CF,SUB,39,41,0,https://cdn.sofifa.net/players/183/141/15_120.png,https://cdn.sofifa.net/teams/110832/60.png
+183512,Yuri,67,725000,24,457,Real Sociedad,SUB,34,24,0,https://cdn.sofifa.net/players/183/512/15_120.png,https://cdn.sofifa.net/teams/457/60.png
+189568,A. Sissoko,67,680000,24,110832,Granada CF,SUB,36,35,0,https://cdn.sofifa.net/players/189/568/15_120.png,https://cdn.sofifa.net/teams/110832/60.png
+193467,Morcillo,67,655000,28,480,Rayo Vallecano,SUB,40,50,0,https://cdn.sofifa.net/players/193/467/15_120.png,https://cdn.sofifa.net/teams/480/60.png
+194730,Juan Carlos,67,775000,26,1867,Córdoba CF,GK,0,0,78,https://cdn.sofifa.net/players/194/730/15_120.png,https://cdn.sofifa.net/teams/1867/60.png
+201096,José Ángel,67,690000,25,468,Elche CF,SUB,28,28,0,https://cdn.sofifa.net/players/201/096/15_120.png,https://cdn.sofifa.net/teams/468/60.png
+205158,Guillermo,67,710000,21,448,Athletic Club de Bilbao,SUB,35,43,0,https://cdn.sofifa.net/players/205/158/15_120.png,https://cdn.sofifa.net/teams/448/60.png
+206035,Eddy,67,720000,21,110832,Granada CF,RES,40,31,0,https://cdn.sofifa.net/players/206/035/15_120.png,https://cdn.sofifa.net/teams/110832/60.png
+208093,Gerard Moreno,67,680000,22,483,Villarreal CF,SUB,24,26,0,https://cdn.sofifa.net/players/208/093/15_120.png,https://cdn.sofifa.net/teams/483/60.png
+210212,Rodrigues,67,730000,23,468,Elche CF,LM,38,33,0,https://cdn.sofifa.net/players/210/212/15_120.png,https://cdn.sofifa.net/teams/468/60.png
+216465,M. Fatau,67,520000,21,480,Rayo Vallecano,SUB,27,37,0,https://cdn.sofifa.net/players/216/465/15_120.png,https://cdn.sofifa.net/teams/480/60.png
+145903,Carlos Caballero,66,745000,29,1867,Córdoba CF,RES,33,46,0,https://cdn.sofifa.net/players/145/903/15_120.png,https://cdn.sofifa.net/teams/1867/60.png
+146486,Saizar,66,670000,31,1867,Córdoba CF,SUB,28,28,0,https://cdn.sofifa.net/players/146/486/15_120.png,https://cdn.sofifa.net/teams/1867/60.png
+170309,F. Piovaccari,66,745000,29,467,SD Eibar,SUB,34,17,0,https://cdn.sofifa.net/players/170/309/15_120.png,https://cdn.sofifa.net/teams/467/60.png
+171774,Luso,66,530000,29,1867,Córdoba CF,RES,26,35,0,https://cdn.sofifa.net/players/171/774/15_120.png,https://cdn.sofifa.net/teams/1867/60.png
+189661,Álvaro,66,770000,23,468,Elche CF,SUB,29,32,0,https://cdn.sofifa.net/players/189/661/15_120.png,https://cdn.sofifa.net/teams/468/60.png
+192499,Héctor Yuste,66,660000,26,110832,Granada CF,SUB,24,21,0,https://cdn.sofifa.net/players/192/499/15_120.png,https://cdn.sofifa.net/teams/110832/60.png
+204346,Fede Vico,66,565000,19,1867,Córdoba CF,SUB,27,26,0,https://cdn.sofifa.net/players/204/346/15_120.png,https://cdn.sofifa.net/teams/1867/60.png
+204387,Juan Carlos,66,730000,23,242,Deportivo de La Coruña,RES,32,21,0,https://cdn.sofifa.net/players/204/387/15_120.png,https://cdn.sofifa.net/teams/242/60.png
+206238,Iván,66,545000,20,1853,Levante Unión Deportiva,RES,29,26,0,https://cdn.sofifa.net/players/206/238/15_120.png,https://cdn.sofifa.net/teams/1853/60.png
+206311,Adriá Carmona,66,625000,22,452,RCD Espanyol de Barcelona,RES,28,33,0,https://cdn.sofifa.net/players/206/311/15_120.png,https://cdn.sofifa.net/teams/452/60.png
+212602,Llorente,66,535000,20,243,Real Madrid CF,SUB,27,22,0,https://cdn.sofifa.net/players/212/602/15_120.png,https://cdn.sofifa.net/teams/243/60.png
+217077,R. Chen,66,505000,20,573,Málaga CF,RES,25,18,0,https://cdn.sofifa.net/players/217/077/15_120.png,https://cdn.sofifa.net/teams/573/60.png

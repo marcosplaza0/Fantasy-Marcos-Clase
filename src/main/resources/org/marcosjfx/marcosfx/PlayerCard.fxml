@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+
+<AnchorPane prefHeight="200.0" prefWidth="790.0" stylesheets="@../../../stylesheets/playerCardStyle.css" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.marcosjfx.marcosfx.PlayerCard">
+   <children>
+      <AnchorPane fx:id="PlayerPane" layoutX="14.0" layoutY="14.0" prefHeight="0.0" prefWidth="0.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <children>
+            <ImageView fx:id="PlayerPortrait" fitHeight="150.0" fitWidth="150.0" layoutX="14.0" layoutY="15.0" pickOnBounds="true" preserveRatio="true" AnchorPane.bottomAnchor="10.0" AnchorPane.leftAnchor="10.0" AnchorPane.topAnchor="10.0" />
+            <VBox layoutX="200.0" layoutY="28.0" prefHeight="142.0" prefWidth="223.0" spacing="10.0" AnchorPane.bottomAnchor="0.0" AnchorPane.topAnchor="10.0">
+               <children>
+                  <Label fx:id="NameLabel" prefHeight="35.0" prefWidth="224.0" text="Nombre y Apellidos">
+                  </Label>
+                  <Label fx:id="PositionLabel" prefHeight="37.0" prefWidth="235.0" text="Posicion" />
+                  <Label fx:id="TeamLabel" prefHeight="36.0" prefWidth="224.0" text="Equipo" />
+               </children>
+            </VBox>
+            <VBox layoutX="512.0" layoutY="21.0" prefHeight="142.0" prefWidth="223.0" spacing="10.0">
+               <children>
+                  <Button fx:id="BuyButton" mnemonicParsing="false" onAction="#onBuyButtonClicked" text="Comprar" />
+                  <Label fx:id="PriceLabel" prefHeight="35.0" prefWidth="224.0" text="Precio" />
+               </children>
+            </VBox>
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>
